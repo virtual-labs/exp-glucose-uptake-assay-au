@@ -2,37 +2,42 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The concept that is central to understanding plant cell culture and regeneration",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pluripotency and totipotency",
+        "b": "Totipotency and plasticity",
+        "c": "Pluripotency and plasiticity",
+        "d": "Multipotency and totipotency"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+ 
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. What is the concept that is central to understand plant cell culture and regeneration?  ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pluripotency and totipotency",
+        "b": "Totipotency and plasticity",
+        "c": "Pluripotency and placiticity",
+        "d": "Multipotency and totipotency"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3. What is the ultimate use of chlorate bleach solution?",
+      "answers": {
+        "a": "Disinfection",
+        "b": "Sterilization",
+        "c": "Only a",
+        "d": "Both a and b"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
