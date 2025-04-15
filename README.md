@@ -1,24 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Cell biology Virtual Lab I
+<b> Experiment|     <b> Glucose Uptake Assay
+
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The Glucose Uptake Assay virtual experiment simulates the measurement of glucose uptake in 3T3-L1 adipocyte cells using radioactively labeled 2-deoxy-D-glucose. It demonstrates how insulin and plant extracts influence glucose transporter translocation to the cell membrane, facilitating glucose entry. This assay is pivotal for studying insulin signaling and evaluating potential anti-diabetic compounds.​
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
-
-### Contributors List
-
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  shyam@amrita.edu
+<b> Department |  Amrita Mind Brain Center
