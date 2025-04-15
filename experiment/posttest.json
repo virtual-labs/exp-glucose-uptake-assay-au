@@ -2,39 +2,48 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The concept that is central to understanding plant cell culture and regeneration",
+      "question": "1. Glucose uptake activity was measured by using",
       "answers": {
-        "a": "Pluripotency and totipotency",
-        "b": "Totipotency and plasticity",
-        "c": "Pluripotency and plasiticity",
-        "d": "Multipotency and totipotency"
+        "a": "Liquid Scintillation counter",
+        "b": "Geiger Muller counter",
+        "c": "NMR spectroscopy"
       },
  
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
 
     {
-      "question": "2. What is the concept that is central to understand plant cell culture and regeneration?  ",
+      "question": "2. In glucose uptake assay, insulin and other plant extracts treated cells are washed with",
       "answers": {
-        "a": "Pluripotency and totipotency",
-        "b": "Totipotency and plasticity",
-        "c": "Pluripotency and placiticity",
-        "d": "Multipotency and totipotency"
+        "a": "Alkaline phosphatase buffer",
+        "b": "Hanks balanced salt solution",
+        "c": "Krebs-Ringer phosphate buffer"
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. In glucose uptake assay, cells are lysed using",
+      "answers": {
+      "a": "10% SDS",
+      "b": "1% SDS",
+      "c": "0.1% SDS"
+      },
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
 
 
+
     {
-      "question": "3. What is the ultimate use of chlorate bleach solution?",
+      "question": "4. In type 1 diabetes pancreas produce little or no insulin.",
       "answers": {
-        "a": "Disinfection",
-        "b": "Sterilization",
-        "c": "Only a",
-        "d": "Both a and b"
+        "a": "True",
+        "b": "False"
       },
      
       "correctAnswer": "a",
