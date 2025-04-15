@@ -2,39 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The concept that is central to understanding plant cell culture and regeneration",
+      "question": "1. An example of auto immune disease.",
       "answers": {
-        "a": "Pluripotency and totipotency",
-        "b": "Totipotency and plasticity",
-        "c": "Pluripotency and plasiticity",
-        "d": "Multipotency and totipotency"
+        "a": "Type 1 diabetes",
+        "b": "Type 2 diabetes",
+        "c": "Gestational diabetes"
       },
  
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
 
     {
-      "question": "2. What is the concept that is central to understand plant cell culture and regeneration?  ",
+      "question": "2. Which cells of pancreas releases insulin in response to high blood glucose level?",
       "answers": {
-        "a": "Pluripotency and totipotency",
-        "b": "Totipotency and plasticity",
-        "c": "Pluripotency and placiticity",
-        "d": "Multipotency and totipotency"
+        "a": "Beta cells",
+        "b": "Alpha cells",
+        "c": "Gamma cells"
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Women having gestational diabetes are more prone to type 2 diabetes.",
+      "answers": {
+      "a": "True",
+      "b": "False"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
 
 
+
     {
-      "question": "3. What is the ultimate use of chlorate bleach solution?",
+      "question": "4. In type 1 diabetes pancreas produce little or no insulin.",
       "answers": {
-        "a": "Disinfection",
-        "b": "Sterilization",
-        "c": "Only a",
-        "d": "Both a and b"
+        "a": "True",
+        "b": "False"
       },
      
       "correctAnswer": "a",
