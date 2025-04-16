@@ -1,0 +1,52 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. An example of auto immune disease.",
+      "answers": {
+        "a": "Type 1 diabetes",
+        "b": "Type 2 diabetes",
+        "c": "Gestational diabetes"
+      },
+ 
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "2. Which cells of pancreas releases insulin in response to high blood glucose level?",
+      "answers": {
+        "a": "Beta cells",
+        "b": "Alpha cells",
+        "c": "Gamma cells"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. Women having gestational diabetes are more prone to type 2 diabetes.",
+      "answers": {
+      "a": "True",
+      "b": "False"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "4. In type 1 diabetes pancreas produce little or no insulin.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
